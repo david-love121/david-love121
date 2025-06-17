@@ -4,4 +4,3 @@ I am currently obtaining my bachelor's in CS at UIC and will graduate in 2027. G
 ## Website 
 I just finished my new portfolio website. Check out the [live website](https://david-love121.github.io/svelte-developer-portfolio/) or the [repository](https://github.com/david-love121/svelte-developer-portfolio)
 
-Other than programming, I tutor 4th grade mathematics with Teach for America and have been learning [the community adaptation to 3Blue1Brown's Manim.](https://github.com/manimCommunity/manim) I love mathematics and always try to think about the underlying mathematics of what I'm coding; math allows us to optimize and find more reductive versions of what we intend. 
